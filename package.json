@@ -1,0 +1,24 @@
+{
+  "name": "sm-algorithmic-task",
+  "version": "1.0.0",
+  "description": "Recruitment task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuveAdrian/sm-algorithmic-task.git"
+  },
+  "author": "Adrian Grabkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuveAdrian/sm-algorithmic-task/issues"
+  },
+  "homepage": "https://github.com/JuveAdrian/sm-algorithmic-task#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
